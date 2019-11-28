@@ -1,2 +1,2 @@
 # PythonSocketExam
-基于python得socket考试系统
+基于python的socket考试系统
