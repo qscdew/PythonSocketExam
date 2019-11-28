@@ -7,6 +7,7 @@
 3) 不同的客户端获取的试题不同，并在客户端显示考试成绩。
 
 ## 运行
-python server_run.py\<br> 
-pythonclient_gui.py\<br> 
+python server_run.py 
+
+pythonclient_gui.py
 
