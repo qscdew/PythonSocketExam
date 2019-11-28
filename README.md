@@ -9,5 +9,5 @@
 ## 运行
 python server_run.py 
 
-pythonclient_gui.py
+python client_gui.py
 
